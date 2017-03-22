@@ -2,7 +2,7 @@
 //  SecondTableViewCell.m
 //  ExpandTableviewCell
 //
-//  Created by IDEABYTES on 3/14/17.
+//  Created by Santhosh on 3/14/17.
 //  Copyright © 2017 Santhosh. All rights reserved.
 //
 
